@@ -1,0 +1,13 @@
+/# allset/
+/# archive/
+/# asp-old/
+/# classes/
+/# nodejs/
+/# revises/
+/# temp/
+/# temp2/
+/# tools/
+.vscode
+.DS_Store
+localhost.zip
+phpinfo.php
